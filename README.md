@@ -35,6 +35,13 @@ Selamat datang di **POS-Mi Frontend** — Antarmuka kasir modern berbasis web un
 
 ## 📸 Hasil Project (Preview)
 
+![/](./home.png)
+![/cashier](./cashier.png)
+![/order](./order.png)
+![/sales](./sales.png)
+![receipt](./receipt.png)
+![/inventory](./inventory.png)
+
 > Tambahkan cuplikan antarmuka dari proyek di sini — misalnya:
 - ✅ Login Page
 - 🧾 Halaman Kasir (Transaksi)
